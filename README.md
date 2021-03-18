@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 Email: xuqing@mail.xqinger.com
 
 
-![XUQING's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true)
+![XUQING's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
