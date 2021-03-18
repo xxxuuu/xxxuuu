@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   - Java & Golang & JavaScript(TypeScript) & Rust
   - Front-End
   - Back-End & Microservice & Cloud Native
+- 📗 Blog: [某不科學の技術博客](https://xqinger.com/)
 - 💬 Wechat: x751736277
 - 📫 Email: xuqing@mail.xqinger.com
 
