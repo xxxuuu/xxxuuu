@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 一名来自 [深圳职业技术学院](https://www.szpt.edu.cn/) 软件专业的大三学生
-- 💻 想从事编译器相关工作的后端开发 🎈 退役伪 ACMer
+- 💻 服务端开发萌新 🎈 退役伪 ACMer 🏗 系统方向修炼中
 - 💪 在为了成为一名优秀的软件工程师而努力着
 - 🧑‍💻 主要语言及技术栈
   - Java & Golang & JavaScript(TypeScript) & Rust
