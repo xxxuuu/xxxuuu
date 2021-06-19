@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 一名来自 [深圳职业技术学院](https://www.szpt.edu.cn/) 软件专业的大三学生
+- 🔭 一名来自 [广东技术师范大学](https://www.gpnu.edu.cn/) 计算机专业的大三学生
 - 💻 服务端开发萌新 🎈 退役伪 ACMer 🏗 系统方向修炼中
 - 💪 在为了成为一名优秀的软件工程师而努力着
 - 🧑‍💻 主要语言及技术栈
