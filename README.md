@@ -24,25 +24,25 @@ Here are some ideas to get you started:
   <tr>
     <td>Languages</td>  
     <td>
-      <img alt="Java" src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=orange"/> 
-      <img alt="Golang" src="https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go"/>  
-      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript"/> 
-      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript"/>  
-      <img alt="Rust" src="https://img.shields.io/badge/-Rust-white?style=flat-square&logo=rust&logoColor=black"/>
+      <img alt="Java" src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=orange&cacheSeconds=36000"/> 
+      <img alt="Golang" src="https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go&cacheSeconds=36000"/>  
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript&cacheSeconds=36000"/> 
+      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&cacheSeconds=36000"/>  
+      <img alt="Rust" src="https://img.shields.io/badge/-Rust-white?style=flat-square&logo=rust&logoColor=black&cacheSeconds=36000"/>
     </td> 
    </tr>
   <tr>
     <td>Front-End</td>  
     <td>
-      <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-white?style=flat-square&logo=vue.js"/> 
-      <img alt="React" src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react"/>  
+      <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-white?style=flat-square&logo=vue.js&cacheSeconds=36000"/> 
+      <img alt="React" src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react&cacheSeconds=36000"/>  
     </td> 
    </tr>
   <tr>
     <td>Back-End & Microservice & Cloud Native</td>  
     <td>
-      <img alt="k8s" src="https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes"/> 
-      <img alt="Istio" src="https://img.shields.io/badge/-Istio-white?style=flat-square&logo=istio"/>  
+      <img alt="k8s" src="https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes&cacheSeconds=36000"/> 
+      <img alt="Istio" src="https://img.shields.io/badge/-Istio-white?style=flat-square&logo=istio&cacheSeconds=36000"/>  
     </td> 
    </tr>
 </table>
