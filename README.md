@@ -42,4 +42,13 @@ Here are some ideas to get you started:
 - 📫 Email: xuqing@mail.xqinger.com
 
 
-![XUQING's GitHub stats](https://github-readme-stats-liart-theta.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
+<table>
+<tr>
+<td>
+<img alt="XUQING's GitHub stats" src="https://github-readme-stats-liart-theta.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true"/>
+</td>
+<td>
+<img alt="" src="https://github.com/xxxuuu/github-stats/blob/master/generated/languages.svg"/>
+</td>
+</tr>
+</table>
