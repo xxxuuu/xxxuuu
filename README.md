@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 - 💬 Wechat: x751736277
 - 📫 Email: xuqing@mail.xqinger.com
 
-
+<img alt="XUQING's GitHub stats" src="https://github-readme-stats-liart-theta.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true"/>
+</td>
+<!--
 <table>
 <tr>
 <td>
@@ -52,3 +54,4 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
+-->
