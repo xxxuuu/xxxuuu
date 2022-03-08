@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
 - 📗 Blog: [某不科學の技術博客](https://xqinger.com/) 
 - 💬 Wechat: x751736277
-- 📫 Email: xuqing@mail.xqinger.com
+- 📫 Email: [751736277@qq.com](mailto:751736277@qq.com)
 
 <img alt="XUQING's GitHub stats" src="https://github-readme-stats-liart-theta.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true"/>
 </td>
