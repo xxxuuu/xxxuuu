@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎈 退役伪 ACMer 
 - 🏗 系统方向研习中
   
-- 📗 Blog: [某不科學の技術博客](https://xqinger.com/) 
+- 📗 Blog: [某不科學の技術博客](https://blog.xqinger.com/) 
 - 💬 Wechat: x751736277
 - 📫 Email: [751736277@qq.com](mailto:751736277@qq.com)
 
