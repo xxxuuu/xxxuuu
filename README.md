@@ -16,13 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 一名来自 [广东技术师范大学](https://www.gpnu.edu.cn/) 计算机专业的大三学生
-- ⌨️ 服务端开发萌新 
-- 🎈 退役伪 ACMer 
-- 🏗 系统方向研习中
-  
-- 📗 Blog: [某不科學の技術博客](https://blog.xqinger.com/) 
+- 🎈 退役伪 ACMer，对分布式存储/数据库感兴趣
 - 💬 Wechat: x751736277
-- 📫 Email: [751736277@qq.com](mailto:751736277@qq.com)
 
 <img alt="XUQING's GitHub stats" src="https://github-readme-stats-liart-theta.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true"/>
 </td>
