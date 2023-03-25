@@ -8,4 +8,8 @@
 - 💬 Wechat: x751736277
 - ✈️ Telegram: [Contact me via the robot: xEnvoyBot](https://t.me/xEnvoyBot)
 
-<img alt="xxxuuu's GitHub stats" src="https://github-readme-stats-liart-theta.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true"/>
+
+<p>
+  <img src="https://github-readme-stats-liart-theta.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true"/>
+  <img src="https://github-readme-stats-liart-theta.vercel.app/api/top-langs/?username=xxxuuu&layout=compact&hide=html,less,css"/>
+</p>
