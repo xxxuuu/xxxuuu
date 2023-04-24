@@ -3,7 +3,7 @@
 
 <img src="https://count.getloli.com/get/@:xxxuuu" alt=":xxxuuu" width="25%" />
 
-- 🔭 一名来自 [广东技术师范大学](https://www.gpnu.edu.cn/) 计算机专业的大四学生
+- 🔭 ~一名来自 [广东技术师范大学](https://www.gpnu.edu.cn/) 计算机专业的大四学生~，某小厂码农，在做分布式存储
 - 🎈 退役伪 ACMer，Gopher + Rustacean，对分布式存储/数据库方向感兴趣
 - 💬 Wechat: eDc1MTczNjI3Nw==
 - ✈️ Telegram: [Contact me via the robot: xEnvoyBot](https://t.me/xEnvoyBot)
