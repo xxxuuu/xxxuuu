@@ -5,8 +5,8 @@
 
 - 🔭 毕业于 GPNU，在某分布式存储小厂做 Hyper-converged × Cloud Native
 - 🎈 Gopher + Rustacean，对分布式系统/数据库和各种泛 systems 方向感兴趣
-- 💬 Wechat: eDc1MTczNjI3Nw==
-- ✈️ Telegram: [Contact me via the robot: xEnvoyBot](https://t.me/xEnvoyBot)
+- 💬 Wechat: `echo eDc1MTczNjI3Nw== | base64 -d`
+- ✈️ Telegram: `echo aHR0cHM6Ly90Lm1lL3hFbnZveUJvdAo= | base64 -d`
 
 
 <p>
