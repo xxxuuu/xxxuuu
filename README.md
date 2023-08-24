@@ -7,6 +7,7 @@
 - 🎈 Gopher + Rustacean，对分布式系统/数据库和各种泛 systems 方向感兴趣
 - 💬 Wechat: `echo eDc1MTczNjI3Nw== | base64 -d`
 - ✈️ Telegram: `echo aHR0cHM6Ly90Lm1lL3hFbnZveUJvdAo= | base64 -d`
+- 🔐 [GPG Public Key](https://gist.github.com/xxxuuu/61785d169c0433b6d1696391c9bf0ad0)
 
 
 <p>
