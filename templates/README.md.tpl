@@ -12,12 +12,7 @@
   <img src="https://github-readme-stats-liart-theta.vercel.app/api/top-langs/?username=xxxuuu&layout=compact&hide=html,less,css" width="35%" />
 </p>
 
-#### 👷 Recent Contributions
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
 #### ⚡️ Recent Pull Requests
-{{range recentPullRequests 20}}
+{{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
