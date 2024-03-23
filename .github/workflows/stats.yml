@@ -42,7 +42,7 @@ jobs:
           user: xxxuuu
           template: classic
           base: activity, community, repositories, metadata
-          config_padding: 0, -10%
+          config_padding: 0, 0%
           config_timezone: Asia/Shanghai
           plugin_lines: yes
           plugin_lines_history_limit: 5
