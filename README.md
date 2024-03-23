@@ -7,10 +7,7 @@
 - 💬 Wechat: `echo eDc1MTczNjI3Nw== | base64 -d`
 - ✈️ Telegram: `echo aHR0cHM6Ly90Lm1lL3hFbnZveUJvdAo= | base64 -d`
 
-<p>
-  <img src="https://github-readme-stats-liart-theta.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" width="50%"/>
-  <img src="https://github-readme-stats-liart-theta.vercel.app/api/top-langs/?username=xxxuuu&layout=compact&hide=html,less,css" width="35%" />
-</p>
+![stats](https://raw.githubusercontent.com/xxxuuu/xxxuuu/main/github-metrics.svg)
 
 #### ⚡️ Recent Pull Requests
 
