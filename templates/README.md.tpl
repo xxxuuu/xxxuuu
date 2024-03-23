@@ -9,13 +9,6 @@
 
 ![stats](https://raw.githubusercontent.com/xxxuuu/xxxuuu/main/github-metrics.svg)
 
-<!--
-<p>
-  <img src="https://github-readme-stats-liart-theta.vercel.app/api?username=xxxuuu&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" width="50%"/>
-  <img src="https://github-readme-stats-liart-theta.vercel.app/api/top-langs/?username=xxxuuu&layout=compact&hide=html,less,css" width="35%" />
-</p>
--->
-
 #### ⚡️ Recent Pull Requests
 {{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
