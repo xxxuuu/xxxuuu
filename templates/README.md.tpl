@@ -10,6 +10,6 @@
 ![stats](https://raw.githubusercontent.com/xxxuuu/xxxuuu/main/github-metrics.svg)
 
 #### 🔨 Check out my recent pull requests
-{{range recentPullRequests 3}}
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
