@@ -44,10 +44,10 @@ jobs:
           base: activity, community, repositories, metadata
           config_padding: 0, -5%
           config_timezone: Asia/Shanghai
-          plugin_lines: yes
-          plugin_lines_history_limit: 5
-          plugin_lines_repositories_limit: 10
-          plugin_lines_sections: base
+          # plugin_lines: yes
+          # plugin_lines_history_limit: 5
+          # plugin_lines_repositories_limit: 10
+          # plugin_lines_sections: base
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
