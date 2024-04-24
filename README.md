@@ -16,3 +16,6 @@
 - [[Feature] implement SHA() and SHA1() functions](https://github.com/matrixorigin/matrixone/pull/15583) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (1 week ago)
 - [[Feature] implement UNHEX() function](https://github.com/matrixorigin/matrixone/pull/15410) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (2 weeks ago)
 - [feat(services/ftp): Support multiple write](https://github.com/apache/opendal/pull/4425) on [apache/opendal](https://github.com/apache/opendal) (3 weeks ago)
+- [fix: set http response chartset to utf-8 when using table format](https://github.com/GreptimeTeam/greptimedb/pull/3571) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
+- [test: add a parameter type mismatch test case to sql integration test](https://github.com/GreptimeTeam/greptimedb/pull/3568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
+- [fix typo](https://github.com/memgraph/documentation/pull/275) on [memgraph/documentation](https://github.com/memgraph/documentation) (6 months ago)
