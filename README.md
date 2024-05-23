@@ -12,7 +12,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [support pub/sub with tables in parser](https://github.com/matrixorigin/matrixone/pull/15709) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (4 weeks ago)
-- [Move coalesce function from math to core](https://github.com/apache/datafusion/pull/10201) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
+- [Move coalesce function from math to core](https://github.com/apache/datafusion/pull/10201) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [fix: dynamically get python udf from scripts table](https://github.com/GreptimeTeam/greptimedb/pull/3774) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [[Feature] implement SHA() and SHA1() functions](https://github.com/matrixorigin/matrixone/pull/15583) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (1 month ago)
 - [[Feature] implement UNHEX() function](https://github.com/matrixorigin/matrixone/pull/15410) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (1 month ago)
