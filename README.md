@@ -13,7 +13,7 @@
 
 - [Item 33 done](https://github.com/rustx-labs/effective-rust-cn/pull/65) on [rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn) (3 months ago)
 - [support pub/sub with tables in parser](https://github.com/matrixorigin/matrixone/pull/15709) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (7 months ago)
-- [Move coalesce function from math to core](https://github.com/apache/datafusion/pull/10201) on [apache/datafusion](https://github.com/apache/datafusion) (7 months ago)
+- [Move coalesce function from math to core](https://github.com/apache/datafusion/pull/10201) on [apache/datafusion](https://github.com/apache/datafusion) (8 months ago)
 - [fix: dynamically get python udf from scripts table](https://github.com/GreptimeTeam/greptimedb/pull/3774) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
 - [[Feature] implement SHA() and SHA1() functions](https://github.com/matrixorigin/matrixone/pull/15583) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (8 months ago)
 - [[Feature] implement UNHEX() function](https://github.com/matrixorigin/matrixone/pull/15410) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (8 months ago)
