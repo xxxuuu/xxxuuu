@@ -16,6 +16,6 @@
 - [Move coalesce function from math to core](https://github.com/apache/datafusion/pull/10201) on [apache/datafusion](https://github.com/apache/datafusion) (11 months ago)
 - [fix: dynamically get python udf from scripts table](https://github.com/GreptimeTeam/greptimedb/pull/3774) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (11 months ago)
 - [[Feature] implement SHA() and SHA1() functions](https://github.com/matrixorigin/matrixone/pull/15583) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (11 months ago)
-- [[Feature] implement UNHEX() function](https://github.com/matrixorigin/matrixone/pull/15410) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (11 months ago)
+- [[Feature] implement UNHEX() function](https://github.com/matrixorigin/matrixone/pull/15410) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) (1 year ago)
 - [feat(services/ftp): Support multiple write](https://github.com/apache/opendal/pull/4425) on [apache/opendal](https://github.com/apache/opendal) (1 year ago)
 - [fix: set http response chartset to utf-8 when using table format](https://github.com/GreptimeTeam/greptimedb/pull/3571) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
