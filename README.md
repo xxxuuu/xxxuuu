@@ -10,11 +10,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [add Dockerfile for 3FS build in openEuler](https://github.com/open3fs/m3fs/pull/134) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (4 days ago)
-- [add support for Kunpeng CPU and openEuler OS](https://github.com/open3fs/3FS/pull/1) on [open3fs/3FS](https://github.com/open3fs/3FS) (4 days ago)
-- [generate architecture-specific config file](https://github.com/open3fs/m3fs/pull/133) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (5 days ago)
-- [add support for openEuler](https://github.com/open3fs/m3fs/pull/130) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (6 days ago)
+- [fix fio dynamic libraries](https://github.com/open3fs/m3fs/pull/137) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (1 day ago)
+- [Wait for storage services to be ready before creating target](https://github.com/open3fs/m3fs/pull/136) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (1 day ago)
+- [add Dockerfile for 3FS build in openEuler](https://github.com/open3fs/m3fs/pull/134) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (5 days ago)
+- [add support for Kunpeng CPU and openEuler OS](https://github.com/open3fs/3FS/pull/1) on [open3fs/3FS](https://github.com/open3fs/3FS) (5 days ago)
+- [generate architecture-specific config file](https://github.com/open3fs/m3fs/pull/133) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (6 days ago)
+- [add support for openEuler](https://github.com/open3fs/m3fs/pull/130) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (1 week ago)
 - [add support for arm](https://github.com/open3fs/m3fs/pull/128) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (1 week ago)
 - [add Dockerfile for 3FS build](https://github.com/open3fs/m3fs/pull/126) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (2 weeks ago)
-- [add 2025s-oscamp-xxxuuu](https://github.com/rcore-os/blog/pull/780) on [rcore-os/blog](https://github.com/rcore-os/blog) (1 month ago)
-- [Item 33 done](https://github.com/rustx-labs/effective-rust-cn/pull/65) on [rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn) (9 months ago)
