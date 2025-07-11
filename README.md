@@ -10,8 +10,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [support to add new client](https://github.com/open3fs/m3fs/pull/145) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (1 day ago)
-- [add release workflow](https://github.com/open3fs/m3fs/pull/143) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (6 days ago)
+- [support to add new client](https://github.com/open3fs/m3fs/pull/145) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (2 days ago)
+- [add release workflow](https://github.com/open3fs/m3fs/pull/143) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (1 week ago)
 - [fix getm3fs script](https://github.com/open3fs/m3fs/pull/139) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (1 week ago)
 - [fix fio dynamic libraries](https://github.com/open3fs/m3fs/pull/137) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (1 week ago)
 - [Wait for storage services to be ready before creating target](https://github.com/open3fs/m3fs/pull/136) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (1 week ago)
