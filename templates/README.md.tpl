@@ -3,7 +3,7 @@
 <img src="https://count.getloli.com/get/@:xxxuuu" alt=":xxxuuu" width="20%" />
 
 - 💻 I'm mainly use Go and Rust
-- 🔭 Interested in distributed storage/database system
+- 🔭 Interested in Cloud Native, Distributed Storage and Database Systems
 - 🍃 Wechat: `echo eDc1MTczNjI3Nw== | base64 -d`
 
 ![stats](https://raw.githubusercontent.com/xxxuuu/xxxuuu/main/github-metrics.svg)
