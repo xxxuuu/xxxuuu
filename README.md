@@ -17,4 +17,4 @@
 - [support to add new client](https://github.com/open3fs/m3fs/pull/145) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (4 months ago)
 - [add release workflow](https://github.com/open3fs/m3fs/pull/143) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (4 months ago)
 - [fix getm3fs script](https://github.com/open3fs/m3fs/pull/139) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (4 months ago)
-- [fix fio dynamic libraries](https://github.com/open3fs/m3fs/pull/137) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (4 months ago)
+- [fix fio dynamic libraries](https://github.com/open3fs/m3fs/pull/137) on [open3fs/m3fs](https://github.com/open3fs/m3fs) (5 months ago)
