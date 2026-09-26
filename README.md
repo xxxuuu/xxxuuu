@@ -11,7 +11,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [add UOsaka 2027 IE exams](https://github.com/Myyura/the_kai_project/pull/144) on [Myyura/the_kai_project](https://github.com/Myyura/the_kai_project) (2 days ago)
+- [add UOsaka 2027 IE exams](https://github.com/Myyura/the_kai_project/pull/144) on [Myyura/the_kai_project](https://github.com/Myyura/the_kai_project) (3 days ago)
 - [docs(kubernetes): Clean up code block formatting in documentation](https://github.com/pacoxu/AI-Infra/pull/328) on [pacoxu/AI-Infra](https://github.com/pacoxu/AI-Infra) (5 months ago)
 - [refactor(services/sled): split service into its own crate](https://github.com/apache/opendal/pull/6981) on [apache/opendal](https://github.com/apache/opendal) (9 months ago)
 - [refactor(services/ftp): split service into its own crate](https://github.com/apache/opendal/pull/6979) on [apache/opendal](https://github.com/apache/opendal) (9 months ago)
