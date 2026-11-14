@@ -2,7 +2,7 @@
 
 <img src="https://count.getloli.com/get/@:xxxuuu" alt=":xxxuuu" width="20%" />
 
-- 👨‍💻 Software engineer, mostly using Go and Rust.
+- 👨‍💻 Software engineer, mostly using Go and Rust. I obsessive exploring how systems work under the hood.
 - 🛠️ Previously worked on **infrastructure, cloud platforms, and distributed storage systems**.
 - 🎓 Incoming M.S. student at **The University of Osaka (大阪大学)**, focusing on **database search and indexing algorithms**.
 - 🌍 Speak Chinese, Japanese and English.
